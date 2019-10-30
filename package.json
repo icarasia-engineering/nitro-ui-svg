@@ -1,0 +1,30 @@
+{
+    "name": "@nitro-ui/svg-icons",
+    "description": "Nitro UI SVG icons",
+    "license": "Apache-2.0",
+    "author": "Hafizuddin Othman <zick.mho@gmail.com>",
+    "homepage": "https://github.com/icarasia-engineering/nitro-ui-svg#readme",
+    "repository": "https://github.com/icarasia-engineering/nitro-ui-svg",
+    "bugs": {
+        "url": "https://github.com/icarasia-engineering/nitro-ui-svg/issues"
+    },
+    "version": "1.0.0-alpha.0",
+    "main": "dist/index.svg",
+    "scripts": {
+        "build": "webpack"
+    },
+    "devDependencies": {
+        "svg-spritemap-webpack-plugin": "^3.5.0",
+        "webpack": "^4.41.2",
+        "webpack-build-notifier": "^0.1.32",
+        "webpack-cli": "^3.3.9"
+    },
+    "keywords": [
+        "Icons",
+        "Nitro",
+        "UI",
+        "CSS",
+        "SVG icons",
+        "iCarAsia"
+    ]
+}
