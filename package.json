@@ -8,9 +8,9 @@
     "bugs": {
         "url": "https://github.com/icarasia-engineering/nitro-ui-svg/issues"
     },
-    "version": "1.0.0-alpha.0",
-    "main": "dist/index.svg",
-    "sass": "dist/sprits.scss",
+    "version": "1.0.0",
+    "main": "dist/sprites.svg",
+    "sass": "dist/sprites.scss",
     "scripts": {
         "build": "webpack"
     },
